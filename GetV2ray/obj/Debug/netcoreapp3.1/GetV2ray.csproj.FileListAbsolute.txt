@@ -1,0 +1,70 @@
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.exe
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.deps.json
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.runtimeconfig.json
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.dll
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.pdb
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Octokit.dll
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Octokit.xml
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.dll
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.pdb
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.exe
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.deps.json
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.runtimeconfig.json
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.dll
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.pdb
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Octokit.dll
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csproj.CopyComplete
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.dll
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.pdb
+C:\Users\Administrator\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.genruntimeconfig.cache
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.exe
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.deps.json
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.runtimeconfig.json
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.runtimeconfig.dev.json
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.dll
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.pdb
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Octokit.dll
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.AssemblyInfoInputs.cache
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.AssemblyInfo.cs
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csproj.CopyComplete
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.dll
+C:\Users\Sibetalaee\source\repos\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.pdb
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.exe
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.deps.json
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.runtimeconfig.json
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.runtimeconfig.dev.json
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.dll
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\GetV2ray.pdb
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Octokit.dll
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csprojAssemblyReference.cache
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.AssemblyInfoInputs.cache
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.AssemblyInfo.cs
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.csproj.CopyComplete
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.dll
+C:\Users\Sibetalaee\OneDrive\Desktop\Server Projs\GetV2ray\GetV2ray\obj\Debug\netcoreapp3.1\GetV2ray.pdb
